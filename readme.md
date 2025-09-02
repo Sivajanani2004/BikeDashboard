@@ -41,4 +41,5 @@ The main goal of this project is to:
 ## 🚀 How to Use
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/https:Sivajanani2004/bike-sales-dashboard.git
+   git clone https://github.com/https:Sivajanani2004/BikeDashboard.git
+
