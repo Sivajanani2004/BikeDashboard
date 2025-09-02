@@ -1,0 +1,408 @@
+Brand,Model,Year,Units_Sold,Mileage,Top_Speed,Price,Fuel_Type,Segment,Performance_Score,image_url
+Hero,Splendor,2015,680487,37,73,244393,Petrol,Commuter,-67.2,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2016,298389,45,98,86579,Petrol,Commuter,28.21,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2017,782246,36,139,72790,Petrol,Commuter,51.1,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2018,629176,57,74,57811,Petrol,Commuter,36.59,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2019,108246,43,99,182475,Petrol,Commuter,-20.24,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2020,641262,31,141,102124,Petrol,Commuter,34.94,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2021,760800,71,139,159974,Petrol,Commuter,25.01,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2022,241148,58,145,122926,Petrol,Commuter,40.04,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2023,16814,40,124,139194,Petrol,Commuter,12.4,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2024,301369,39,97,138236,Petrol,Commuter,-1.12,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,Splendor,2025,117175,35,118,75353,Petrol,Commuter,38.82,https://imgd.aeplcdn.com/1056x594/n/cw/ec/15109/splendor-plus-right-side-view-2.png?isig=0&q=80
+Hero,HF Deluxe,2015,386417,52,147,119342,Petrol,Commuter,39.83,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2016,55561,59,138,82722,Petrol,Commuter,57.14,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2017,406922,35,140,126854,Petrol,Commuter,24.07,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2018,669176,69,116,201349,Petrol,Commuter,-8.17,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2019,211629,75,78,62012,Petrol,Commuter,45.49,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2020,703384,44,107,70916,Petrol,Commuter,40.04,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2021,254098,36,118,122869,Petrol,Commuter,15.57,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2022,485435,70,116,92638,Petrol,Commuter,46.68,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2023,398162,52,96,225682,Petrol,Commuter,-38.84,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2024,289946,74,79,209680,Petrol,Commuter,-28.34,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,HF Deluxe,2025,675822,40,138,241136,Petrol,Commuter,-31.57,https://www.pngkey.com/png/detail/248-2485584_hero-hf-deluxe-motorcycle.png
+Hero,Glamour,2015,266702,40,129,149471,Petrol,Commuter,9.76,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2016,293060,70,141,107570,Petrol,Commuter,51.72,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2017,727870,50,77,110043,Petrol,Commuter,8.48,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2018,43659,50,121,120186,Petrol,Commuter,25.41,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2019,79403,43,142,238196,Petrol,Commuter,-26.6,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2020,339963,43,133,153712,Petrol,Commuter,11.14,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2021,684079,59,88,119436,Petrol,Commuter,13.78,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2022,156413,45,141,191289,Petrol,Commuter,-2.64,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2023,285504,67,124,202969,Petrol,Commuter,-5.98,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2024,428801,53,98,86262,Petrol,Commuter,32.37,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Glamour,2025,544277,61,81,248123,Petrol,Commuter,-53.06,https://img.indianautosblog.com/2017/01/2017-Hero-Glamour-carburetted.jpeg
+Hero,Xtreme,2015,59405,37,89,214481,Petrol,Sports,-44.24,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2016,177753,73,124,206345,Petrol,Sports,-4.67,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2017,76613,54,118,206208,Petrol,Sports,-17.1,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2018,500785,63,102,195024,Petrol,Sports,-15.01,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2019,22038,73,84,228706,Petrol,Sports,-35.85,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2020,573054,47,113,79242,Petrol,Sports,40.38,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2021,317757,57,90,168940,Petrol,Sports,-10.97,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2022,13402,46,134,249743,Petrol,Sports,-34.87,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2023,197330,62,83,213918,Petrol,Sports,-34.46,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2024,322942,70,134,209637,Petrol,Sports,-2.82,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Hero,Xtreme,2025,218573,39,117,249887,Petrol,Sports,-46.94,https://www.kindpng.com/picc/m/714-7149653_xtreme-160r-website-hero-xtreme-160r-price-in.png
+Bajaj,Pulsar 150,2015,179396,64,137,50149,Petrol,Sports,75.43,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2016,638038,50,132,55105,Petrol,Sports,63.45,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2017,127301,53,109,112770,Petrol,Sports,24.62,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2018,70738,45,142,70645,Petrol,Sports,58.18,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2019,99814,61,78,249387,Petrol,Sports,-55.19,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2020,568582,38,86,222949,Petrol,Sports,-49.47,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2021,508369,65,91,119483,Petrol,Sports,18.26,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2022,563306,68,124,105521,Petrol,Sports,43.24,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2023,575492,74,95,236895,Petrol,Sports,-33.95,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2024,336858,55,117,164845,Petrol,Sports,3.58,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar 150,2025,552717,58,85,114986,Petrol,Sports,14.01,https://www.pngkey.com/png/detail/256-2568511_bajaj-pulsar-150-bike-breaks-bajaj-pulsar-150.png
+Bajaj,Pulsar NS200,2015,245612,34,113,55514,Petrol,Sports,45.74,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2016,626886,65,99,204256,Petrol,Sports,-20.13,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2017,240914,30,79,235556,Petrol,Sports,-63.28,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2018,671759,33,99,67668,Petrol,Sports,32.17,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2019,42938,51,79,184782,Petrol,Sports,-27.39,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2020,259565,47,132,106160,Petrol,Sports,36.42,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2021,575427,38,143,201050,Petrol,Sports,-10.03,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2022,505631,45,130,156708,Petrol,Sports,9.15,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2023,209659,36,82,222748,Petrol,Sports,-52.37,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2024,461989,52,124,157767,Petrol,Sports,9.12,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Pulsar NS200,2025,499710,33,82,65889,Petrol,Sports,24.56,https://www.seekpng.com/png/detail/262-2622196_bajaj-pulsar-ns-200-front-pulsar-200-ns.png
+Bajaj,Platina,2015,432179,51,83,115183,Petrol,Commuter,9.41,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2016,210896,42,138,167601,Petrol,Commuter,6.2,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2017,156991,57,93,123018,Petrol,Commuter,13.49,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2018,495100,45,79,166164,Petrol,Commuter,-21.08,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2019,587057,36,76,220955,Petrol,Commuter,-54.48,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2020,576847,30,81,247542,Petrol,Commuter,-68.27,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2021,257861,40,122,177307,Petrol,Commuter,-7.65,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2022,514740,43,121,65370,Petrol,Commuter,49.31,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2023,182634,54,70,152346,Petrol,Commuter,-14.17,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2024,288085,59,106,160888,Petrol,Commuter,2.06,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Platina,2025,740429,65,132,90579,Petrol,Commuter,53.21,https://www.kindpng.com/picc/m/218-2180490_bajaj-platina-100cc-price-hd-png-download.png
+Bajaj,Avenger,2015,209122,48,97,65331,Petrol,Cruiser,39.83,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2016,617314,64,77,246077,Petrol,Cruiser,-52.54,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2017,338838,33,76,203138,Petrol,Cruiser,-47.07,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2018,509948,62,137,91270,Petrol,Cruiser,53.87,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2019,69642,62,80,98712,Petrol,Cruiser,21.64,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2020,81849,68,78,227002,Petrol,Cruiser,-40.5,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2021,256629,55,85,199336,Petrol,Cruiser,-29.67,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2022,268175,67,146,60418,Petrol,Cruiser,76.29,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2023,659468,35,123,222326,Petrol,Cruiser,-32.16,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2024,622024,66,136,132934,Petrol,Cruiser,34.53,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+Bajaj,Avenger,2025,283432,43,110,112570,Petrol,Cruiser,20.22,https://www.kindpng.com/picc/m/333-3338698_street-bajaj-avenger-160-hd-png-download.png
+TVS,Apache RTR 160,2015,288517,55,86,226079,Petrol,Sports,-42.54,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2016,686856,49,128,132883,Petrol,Sports,22.06,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2017,798387,34,71,170136,Petrol,Sports,-32.57,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2018,661332,66,82,69204,Petrol,Sports,39.4,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2019,573750,43,134,119520,Petrol,Sports,28.74,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2020,148890,52,78,114037,Petrol,Sports,7.98,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2021,397477,48,90,164867,Petrol,Sports,-13.43,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2022,579605,75,108,210347,Petrol,Sports,-13.67,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2023,695743,63,71,225076,Petrol,Sports,-45.54,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2024,591542,49,83,85203,Petrol,Sports,23.4,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Apache RTR 160,2025,287312,37,83,244620,Petrol,Sports,-62.31,https://www.pngkey.com/png/detail/253-2539519_tvs-apache-rtr-180-abs-bike-apache-rtr.png
+TVS,Star City,2015,590097,39,104,123860,Petrol,Commuter,9.57,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2016,644210,43,113,103371,Petrol,Commuter,26.31,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2017,730892,70,103,182489,Petrol,Commuter,-4.74,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2018,522262,46,76,74195,Petrol,Commuter,23.9,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2019,675095,57,105,61557,Petrol,Commuter,50.22,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2020,13717,51,86,217015,Petrol,Commuter,-40.01,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2021,284680,40,126,194619,Petrol,Commuter,-14.31,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2022,749945,57,141,52534,Petrol,Commuter,72.73,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2023,127308,34,89,193023,Petrol,Commuter,-35.01,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2024,47778,53,144,194841,Petrol,Commuter,1.08,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Star City,2025,165287,57,86,60965,Petrol,Commuter,41.02,https://www.kindpng.com/picc/m/762-7621778_tvs-star-city-plus-2019-hd-png-download.png
+TVS,Sport,2015,333232,53,75,143797,Petrol,Commuter,-7.9,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2016,230281,73,101,224832,Petrol,Commuter,-25.42,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2017,117786,52,141,156529,Petrol,Commuter,18.24,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2018,660810,39,100,92598,Petrol,Commuter,23.2,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2019,195652,56,73,97018,Petrol,Commuter,15.99,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2020,782343,51,122,225612,Petrol,Commuter,-26.31,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2021,780763,45,104,91732,Petrol,Commuter,28.63,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2022,745343,36,118,60151,Petrol,Commuter,46.92,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2023,503554,44,95,170665,Petrol,Commuter,-15.83,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2024,376643,49,99,108438,Petrol,Commuter,19.78,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Sport,2025,34813,72,94,154455,Petrol,Commuter,5.77,https://www.kindpng.com/picc/m/557-5572512_fuel-efficient-tvs-sport-tvs-sport-bike-hd.png
+TVS,Jupiter,2015,354207,47,78,123170,Petrol,Scooter,0.91,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2016,378203,71,135,154773,Petrol,Scooter,25.61,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2017,722526,64,112,57235,Petrol,Scooter,59.38,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2018,130944,46,92,202198,Petrol,Scooter,-32.1,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2019,288361,32,83,206387,Petrol,Scooter,-45.69,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2020,465673,52,110,164398,Petrol,Scooter,-1.2,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2021,645656,62,84,150976,Petrol,Scooter,-2.49,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2022,614596,42,102,61635,Petrol,Scooter,41.18,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2023,753215,57,70,186293,Petrol,Scooter,-29.65,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2024,574607,73,95,145478,Petrol,Scooter,11.26,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+TVS,Jupiter,2025,462248,34,112,213356,Petrol,Scooter,-33.68,https://www.kindpng.com/picc/m/122-1229238_tvs-jupiter-zx-2019-model-hd-png-download.png
+Yamaha,FZ-S,2015,339164,72,85,238679,Petrol,Sports,-40.84,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2016,324910,62,109,224821,Petrol,Sports,-26.91,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2017,438231,50,121,232769,Petrol,Sports,-30.88,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2018,320016,65,86,100289,Petrol,Sports,25.36,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2019,450869,72,118,227554,Petrol,Sports,-18.78,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2020,794475,41,148,199187,Petrol,Sports,-5.09,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2021,325568,55,140,50106,Petrol,Sports,72.45,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2022,328635,48,96,162692,Petrol,Sports,-9.35,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2023,618158,68,111,171893,Petrol,Sports,3.55,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2024,473246,58,97,184001,Petrol,Sports,-14.5,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,FZ-S,2025,506171,40,80,124392,Petrol,Sports,-2.2,https://www.kindpng.com/picc/m/432-4324331_yamaha-fzs-yamaha-fz-s-hd-png-download.png
+Yamaha,R15,2015,550490,72,149,137867,Petrol,Sports,41.57,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2016,107923,45,109,108888,Petrol,Sports,22.56,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2017,218802,39,73,62114,Petrol,Sports,24.94,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2018,266736,60,148,69091,Petrol,Sports,69.45,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2019,487538,56,150,200908,Petrol,Sports,2.55,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2020,213880,75,119,179598,Petrol,Sports,7.2,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2021,429066,45,88,221981,Petrol,Sports,-44.49,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2022,731024,30,83,161449,Petrol,Sports,-24.22,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2023,239471,41,136,171778,Petrol,Sports,2.61,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2024,62657,65,101,81813,Petrol,Sports,42.09,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,R15,2025,488634,38,129,225001,Petrol,Sports,-29,https://www.kindpng.com/picc/m/745-7458715_r152roja-yamaha-r15-version-2-0-hd-png-download.png
+Yamaha,MT-15,2015,566932,65,146,133177,Petrol,Sports,38.91,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2016,474071,69,134,161867,Petrol,Sports,20.57,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2017,584485,58,90,244944,Petrol,Sports,-48.47,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2018,507732,58,103,247073,Petrol,Sports,-43.04,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2019,269249,70,105,186655,Petrol,Sports,-5.83,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2020,518136,70,100,121984,Petrol,Sports,24.01,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2021,471239,34,106,111471,Petrol,Sports,14.26,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2022,294913,51,110,191597,Petrol,Sports,-15.3,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2023,94491,38,89,110623,Petrol,Sports,8.19,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2024,411641,74,89,235183,Petrol,Sports,-36.09,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,MT-15,2025,234345,34,123,156849,Petrol,Sports,0.08,https://www.kindpng.com/picc/m/182-1826310_yamaha-mt-15-price-in-india-hd-png.png
+Yamaha,Fascino,2015,356954,64,129,158992,Petrol,Scooter,17,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2016,75290,43,123,152099,Petrol,Scooter,6.95,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2017,622451,74,72,200913,Petrol,Scooter,-27.46,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2018,408858,60,70,142211,Petrol,Scooter,-6.11,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2019,323118,54,123,191091,Petrol,Scooter,-7.05,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2020,793826,64,147,107812,Petrol,Scooter,51.59,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2021,521945,44,104,164251,Petrol,Scooter,-8.13,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2022,519232,31,119,138114,Petrol,Scooter,5.94,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2023,711364,73,121,239839,Petrol,Scooter,-22.92,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2024,183061,59,86,213120,Petrol,Scooter,-34.06,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Yamaha,Fascino,2025,570069,31,120,205161,Petrol,Scooter,-27.08,https://www.kindpng.com/picc/m/217-2170677_yamaha-bikes-fascino-hd-png-download.png
+Royal Enfield,Classic 350,2015,601807,72,73,72006,Petrol,Cruiser,36.5,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2016,683971,57,87,171031,Petrol,Cruiser,-13.52,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2017,200556,33,103,149379,Petrol,Cruiser,-6.69,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2018,353254,43,128,135680,Petrol,Cruiser,17.66,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2019,363894,54,105,247134,Petrol,Cruiser,-44.07,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2020,452042,46,80,173288,Petrol,Cruiser,-23.64,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2021,30324,64,76,141740,Petrol,Cruiser,-0.87,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2022,245113,71,78,220853,Petrol,Cruiser,-35.93,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2023,52213,31,101,102261,Petrol,Cruiser,14.87,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2024,31369,69,89,112533,Petrol,Cruiser,22.73,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Classic 350,2025,142352,60,84,197841,Petrol,Cruiser,-26.92,https://www.kindpng.com/picc/m/558-5585915_royal-enfield-350-electra-2014-model-hd-png.png
+Royal Enfield,Bullet 350,2015,238552,59,102,146703,Petrol,Cruiser,7.15,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2016,185939,68,147,246064,Petrol,Cruiser,-15.53,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2017,763252,37,90,131536,Petrol,Cruiser,-2.27,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2018,123349,67,73,131777,Petrol,Cruiser,4.11,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2019,613766,73,118,153980,Petrol,Cruiser,18.51,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2020,759747,42,79,205214,Petrol,Cruiser,-42.11,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2021,734161,70,101,76712,Petrol,Cruiser,47.14,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2022,741059,49,146,81733,Petrol,Cruiser,56.63,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2023,603423,32,114,189655,Petrol,Cruiser,-21.83,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2024,459186,72,117,68076,Petrol,Cruiser,60.46,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Bullet 350,2025,540538,71,113,53316,Petrol,Cruiser,65.34,https://www.kindpng.com/picc/m/151-1516357_bullet-350-es-silver-royal-enfield-bullet-350.png
+Royal Enfield,Meteor 350,2015,450463,61,83,163645,Petrol,Cruiser,-9.82,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2016,389781,70,128,235416,Petrol,Cruiser,-18.71,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2017,170422,57,92,242360,Petrol,Cruiser,-46.68,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2018,557091,71,104,211457,Petrol,Cruiser,-18.23,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2019,574315,60,129,164183,Petrol,Cruiser,12.41,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2020,776536,67,104,134490,Petrol,Cruiser,18.25,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2021,267420,35,105,168175,Petrol,Cruiser,-14.09,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2022,265709,59,142,209994,Petrol,Cruiser,-4.5,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2023,710646,54,113,57523,Petrol,Cruiser,54.74,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2024,528317,50,93,177808,Petrol,Cruiser,-17.4,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Meteor 350,2025,232423,52,103,139217,Petrol,Cruiser,7.89,https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/meteor/colours/studio-shots/metallic-brown/01-brown.png
+Royal Enfield,Himalayan,2015,303243,68,105,195697,Petrol,Adventure,-11.35,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2016,20644,63,94,72442,Petrol,Adventure,42.28,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2017,263080,56,132,195536,Petrol,Adventure,-3.77,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2018,261997,74,130,219319,Petrol,Adventure,-7.66,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2019,756420,61,127,54520,Petrol,Adventure,66.74,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2020,107573,48,98,156011,Petrol,Adventure,-5.01,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2021,735391,45,109,224053,Petrol,Adventure,-35.03,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2022,619805,53,130,195089,Petrol,Adventure,-6.04,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2023,566711,52,124,245542,Petrol,Adventure,-34.77,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2024,587124,51,115,234249,Petrol,Adventure,-34.12,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Royal Enfield,Himalayan,2025,485786,47,109,115903,Petrol,Adventure,20.05,https://www.kindpng.com/picc/m/762-7622573_himalayan-royal-enfield-himalayan-orleans-hd-png-download.png
+Suzuki,Gixxer,2015,251736,37,94,132719,Petrol,Sports,-0.86,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2016,135362,64,93,100211,Petrol,Sports,28.39,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2017,236895,60,105,239945,Petrol,Sports,-37.47,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2018,628226,63,146,124186,Petrol,Sports,42.41,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2019,115409,42,107,109633,Petrol,Sports,19.68,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2020,388411,41,108,53708,Petrol,Sports,47.65,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2021,752411,64,86,121909,Petrol,Sports,14.05,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2022,57726,33,140,126581,Petrol,Sports,23.21,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2023,741295,38,132,76892,Petrol,Sports,46.55,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2024,22861,66,106,173049,Petrol,Sports,-0.52,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Gixxer,2025,511968,58,113,98329,Petrol,Sports,36.34,https://www.kindpng.com/picc/m/4-46532_bike-png-suzuki-gixxer-png-image-free-download.png
+Suzuki,Access 125,2015,63872,46,131,79907,Petrol,Scooter,48.55,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2016,78517,55,132,69420,Petrol,Scooter,58.79,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2017,615050,70,76,89774,Petrol,Scooter,28.11,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2018,166445,66,108,72329,Petrol,Scooter,50.84,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2019,270247,37,141,159097,Petrol,Scooter,9.45,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2020,645770,68,149,109162,Petrol,Scooter,53.92,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2021,557957,54,127,166056,Petrol,Scooter,7.47,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2022,321797,67,124,130053,Petrol,Scooter,30.47,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2023,606251,69,77,209811,Petrol,Scooter,-31.91,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2024,786039,36,96,213975,Petrol,Scooter,-40.99,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Access 125,2025,231275,46,80,91171,Petrol,Scooter,17.41,https://www.kindpng.com/picc/m/478-4788065_suzuki-access-125-red-hd-png-download.png
+Suzuki,Burgman Street,2015,261516,41,140,69677,Petrol,Scooter,55.66,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2016,174136,30,122,168096,Petrol,Scooter,-8.05,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2017,732858,68,130,126351,Petrol,Scooter,35.82,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2018,44225,44,106,235324,Petrol,Scooter,-42.66,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2019,306451,74,128,68659,Petrol,Scooter,66.67,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2020,730775,44,103,213855,Petrol,Scooter,-33.43,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2021,628439,72,95,161447,Petrol,Scooter,2.78,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2022,130351,64,98,219773,Petrol,Scooter,-28.89,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2023,166226,47,88,68719,Petrol,Scooter,33.14,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2024,72535,40,109,205987,Petrol,Scooter,-28.49,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Burgman Street,2025,795339,66,106,165121,Petrol,Scooter,3.44,https://www.kindpng.com/picc/m/152-1521020_suzuki-burgman-price-in-india-hd-png-download.png
+Suzuki,Intruder,2015,140394,59,108,233430,Petrol,Cruiser,-33.22,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2016,432060,47,134,191552,Petrol,Cruiser,-5.28,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2017,527781,58,80,206771,Petrol,Cruiser,-34.39,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2018,51797,57,111,208259,Petrol,Cruiser,-20.13,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2019,272529,31,81,110011,Petrol,Cruiser,0.99,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2020,717053,66,145,55438,Petrol,Cruiser,77.78,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2021,714938,47,143,60546,Petrol,Cruiser,64.73,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2022,193700,60,136,220789,Petrol,Cruiser,-12.39,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2023,473711,47,93,203440,Petrol,Cruiser,-31.72,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2024,467058,70,132,73918,Petrol,Cruiser,64.04,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+Suzuki,Intruder,2025,502841,52,122,137374,Petrol,Cruiser,18.31,https://www.kindpng.com/picc/m/70-705002_suzuki-intruder-intruder-price-in-nagpur-hd-png.png
+KTM,Duke 200,2015,346653,72,83,92159,Petrol,Sports,31.42,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2016,355824,56,133,125554,Petrol,Sports,31.72,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2017,704769,55,140,59619,Petrol,Sports,67.69,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2018,486919,35,110,116164,Petrol,Sports,14.42,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2019,348977,37,121,184898,Petrol,Sports,-13.45,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2020,11206,72,139,171104,Petrol,Sports,19.95,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2021,443321,33,94,185905,Petrol,Sports,-29.45,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2022,389353,69,133,213947,Petrol,Sports,-5.97,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2023,473513,33,96,120007,Petrol,Sports,4.5,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2024,585898,38,106,164849,Petrol,Sports,-10.42,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,Duke 200,2025,742168,61,85,57567,Petrol,Sports,44.22,https://www.kindpng.com/picc/m/18-188310_transparent-motorcycle-front-view-clipart-duke-200-price.png
+KTM,RC 125,2015,670626,68,100,236065,Petrol,Sports,-34.03,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2016,176071,49,140,53584,Petrol,Sports,67.71,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2017,589077,56,81,108903,Petrol,Sports,14.05,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2018,128972,59,85,219793,Petrol,Sports,-37.9,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2019,171450,61,107,183397,Petrol,Sports,-7.7,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2020,749677,47,123,176484,Petrol,Sports,-3.24,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2021,505158,45,128,194510,Petrol,Sports,-10.75,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2022,161668,54,94,207123,Petrol,Sports,-29.56,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2023,542929,38,78,122416,Petrol,Sports,-3.21,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2024,445098,51,134,120037,Petrol,Sports,32.48,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,RC 125,2025,12689,48,108,203862,Petrol,Sports,-23.93,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ra8-jyKUwuurOXh7uSCC5BLCrrN9AlUgjg&s
+KTM,Duke 390,2015,618093,72,132,88953,Petrol,Sports,57.52,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2016,478238,64,131,140472,Petrol,Sports,27.26,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2017,358588,65,139,148883,Petrol,Sports,27.56,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2018,487463,50,94,232845,Petrol,Sports,-44.42,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2019,260405,66,119,111226,Petrol,Sports,36.89,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2020,440728,32,110,245219,Petrol,Sports,-51.61,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2021,505951,75,118,151208,Petrol,Sports,20.9,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2022,705928,71,89,179847,Petrol,Sports,-9.92,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2023,48817,38,134,204712,Petrol,Sports,-16.36,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2024,358121,36,126,76138,Petrol,Sports,42.93,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,Duke 390,2025,561499,59,71,239384,Petrol,Sports,-54.69,https://www.kindpng.com/picc/m/174-1748435_ktm-duke-390-rc-2017-hd-png-download.png
+KTM,RC 200,2015,161157,56,89,69615,Petrol,Sports,37.69,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2016,502296,46,113,213383,Petrol,Sports,-27.19,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2017,736353,55,80,136131,Petrol,Sports,-0.57,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2018,717115,64,118,133010,Petrol,Sports,24.5,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2019,667246,75,132,191824,Petrol,Sports,7.59,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2020,47642,69,78,111543,Petrol,Sports,17.73,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2021,671820,73,106,109634,Petrol,Sports,34.68,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2022,793041,35,125,75806,Petrol,Sports,42.1,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2023,674532,75,82,166307,Petrol,Sports,-4.65,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2024,184446,74,108,57588,Petrol,Sports,62.21,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+KTM,RC 200,2025,58225,50,77,126904,Petrol,Sports,0.05,https://5.imimg.com/data5/SC/TN/MY-50906656/ktm-rc-200-bike-500x500.png
+Honda,Shine,2015,385876,53,125,88160,Petrol,Commuter,44.92,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2016,266059,63,122,198354,Petrol,Commuter,-6.68,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2017,724919,41,91,95893,Petrol,Commuter,18.05,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2018,92804,69,118,212453,Petrol,Commuter,-12.73,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2019,726318,45,133,202871,Petrol,Commuter,-12.44,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2020,160069,44,129,217222,Petrol,Commuter,-22.11,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2021,276314,59,102,224808,Petrol,Commuter,-31.9,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2022,19853,59,106,227631,Petrol,Commuter,-31.32,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2023,583149,40,79,165796,Petrol,Commuter,-23.4,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2024,372351,67,108,217493,Petrol,Commuter,-21.25,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Shine,2025,454920,74,102,169756,Petrol,Commuter,3.12,https://www.kindpng.com/picc/m/325-3254339_white-shine-png-png-download-honda-sp-shine.png
+Honda,Unicorn,2015,326797,42,119,176670,Petrol,Commuter,-7.83,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2016,121834,45,118,199926,Petrol,Commuter,-18.46,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2017,386395,66,107,233311,Petrol,Commuter,-30.16,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2018,319571,31,120,121953,Petrol,Commuter,14.52,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2019,18491,66,76,208965,Petrol,Commuter,-33.48,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2020,791369,61,106,110324,Petrol,Commuter,28.34,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2021,646553,52,98,216885,Petrol,Commuter,-33.44,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2022,209367,69,102,227671,Petrol,Commuter,-28.34,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2023,765948,72,87,214691,Petrol,Commuter,-27.85,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2024,111883,70,75,130984,Petrol,Commuter,7.01,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Unicorn,2025,472236,32,144,145646,Petrol,Commuter,15.18,https://www.kindpng.com/picc/m/134-1348516_honda-bike-png-file-honda-cb-unicorn-160.png
+Honda,Hornet,2015,777934,38,81,127361,Petrol,Sports,-4.18,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2016,352589,56,92,102637,Petrol,Sports,22.68,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2017,148579,64,116,189159,Petrol,Sports,-4.58,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2018,536169,47,91,117363,Petrol,Sports,10.32,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2019,515254,48,113,80191,Petrol,Sports,40.4,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2020,501081,34,88,247696,Petrol,Sports,-62.85,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2021,246574,73,120,196096,Petrol,Sports,-1.55,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2022,393542,35,120,53648,Petrol,Sports,50.68,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2023,287304,64,85,169219,Petrol,Sports,-10.11,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2024,396490,73,103,203238,Petrol,Sports,-13.62,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Hornet,2025,409534,70,117,78402,Petrol,Sports,54.3,https://www.kindpng.com/picc/m/211-2112930_honda-hornet-600-black-hd-png-download.png
+Honda,Activa,2015,717617,44,130,56560,Petrol,Scooter,58.72,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2016,659641,65,111,209929,Petrol,Scooter,-16.96,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2017,242120,71,78,216567,Petrol,Scooter,-33.78,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2018,496819,74,108,220194,Petrol,Scooter,-19.1,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2019,438129,37,87,61887,Petrol,Scooter,31.06,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2020,49019,49,133,80440,Petrol,Scooter,50.78,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2021,111913,45,138,85563,Petrol,Scooter,48.72,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2022,417524,59,117,225763,Petrol,Scooter,-24.88,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2023,789238,74,139,159871,Petrol,Scooter,26.56,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2024,625870,39,123,221683,Petrol,Scooter,-29.84,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Honda,Activa,2025,113831,61,148,156985,Petrol,Scooter,26.01,https://www.kindpng.com/picc/m/488-4884165_honda-activa-3g-scooty-png-image-honda-activa.png
+Ather,450X,2015,41666,0,74,145238,Electric,Electric,-35.62,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2016,53566,0,97,129057,Electric,Electric,-16.03,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2017,63287,0,100,156062,Electric,Electric,-28.03,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2018,52537,0,82,144936,Electric,Electric,-31.47,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2019,53147,0,139,159093,Electric,Electric,-10.05,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2020,89518,0,115,103968,Electric,Electric,5.52,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2021,57184,0,105,112439,Electric,Electric,-3.72,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2022,21011,0,128,106007,Electric,Electric,11,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2023,91870,0,97,142054,Electric,Electric,-22.53,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2024,88819,0,146,101399,Electric,Electric,22.3,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450X,2025,11629,0,112,115962,Electric,Electric,-1.98,https://5.imimg.com/data5/SELLER/Default/2024/9/450345017/LP/XA/LC/16402/ather-450x-electric-scooter.png
+Ather,450S,2015,21505,0,142,113448,Electric,Electric,14.28,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2016,13992,0,140,113576,Electric,Electric,13.21,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2017,81858,0,97,153284,Electric,Electric,-28.14,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2018,35539,0,112,150749,Electric,Electric,-19.37,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2019,24340,0,146,100185,Electric,Electric,22.91,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2020,41342,0,88,108519,Electric,Electric,-10.26,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2021,75807,0,102,152331,Electric,Electric,-25.17,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2022,27871,0,84,143323,Electric,Electric,-29.66,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2023,8379,0,86,100973,Electric,Electric,-7.49,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2024,51955,0,100,138591,Electric,Electric,-19.3,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ather,450S,2025,47437,0,72,111419,Electric,Electric,-19.71,https://www.kindpng.com/picc/m/697-6974233_ather-electric-scooter-price-png-download-ather-450.png
+Ola,S1,2015,39782,0,76,108307,Electric,Electric,-16.15,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2016,60176,0,137,107448,Electric,Electric,14.78,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2017,13330,0,130,129378,Electric,Electric,0.31,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2018,52453,0,135,138906,Electric,Electric,-1.95,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2019,19293,0,127,133019,Electric,Electric,-3.01,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2020,34038,0,148,102841,Electric,Electric,22.58,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2021,91363,0,136,119767,Electric,Electric,8.12,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2022,65036,0,73,103986,Electric,Electric,-15.49,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2023,67781,0,121,127936,Electric,Electric,-3.47,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2024,94928,0,83,132130,Electric,Electric,-24.56,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1,2025,98375,0,126,104816,Electric,Electric,10.59,https://assets.otocapital.in/prod/coral-glam-ola-electric-s1-air-image.png
+Ola,S1 Pro,2015,15589,0,111,139865,Electric,Electric,-14.43,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=75
+Ola,S1 Pro,2016,24442,0,78,108270,Electric,Electric,-15.13,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=76
+Ola,S1 Pro,2017,41046,0,149,141489,Electric,Electric,3.76,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=77
+Ola,S1 Pro,2018,81724,0,140,146671,Electric,Electric,-3.34,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=78
+Ola,S1 Pro,2019,47622,0,118,139150,Electric,Electric,-10.58,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=79
+Ola,S1 Pro,2020,74541,0,107,129734,Electric,Electric,-11.37,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=80
+Ola,S1 Pro,2021,71263,0,147,128193,Electric,Electric,9.4,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=81
+Ola,S1 Pro,2022,17999,0,84,155888,Electric,Electric,-35.94,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=82
+Ola,S1 Pro,2023,90814,0,140,147240,Electric,Electric,-3.62,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=83
+Ola,S1 Pro,2024,33183,0,125,129593,Electric,Electric,-2.3,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=84
+Ola,S1 Pro,2025,34949,0,122,122212,Electric,Electric,-0.11,https://www.otocapital.in/_next/image?url=https%3A%2F%2Fassets.otocapital.in%2Fproduction%2Famethyst-ola-s1-pro-image.png&w=1536&q=85
+TVS Electric,iQube,2015,64441,0,121,127262,Electric,Electric,-3.13,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2016,17463,0,110,127968,Electric,Electric,-8.98,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2017,45963,0,102,124530,Electric,Electric,-11.27,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2018,25006,0,130,104399,Electric,Electric,12.8,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2019,16957,0,80,106109,Electric,Electric,-13.05,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2020,61606,0,82,148797,Electric,Electric,-33.4,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2021,53843,0,86,136462,Electric,Electric,-25.23,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2022,12861,0,145,136804,Electric,Electric,4.1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2023,78620,0,112,143909,Electric,Electric,-15.95,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2024,21021,0,122,123173,Electric,Electric,-0.59,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
+TVS Electric,iQube,2025,92207,0,124,156891,Electric,Electric,-16.45,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG0hTxyjEjcW35RD6Yw33-p9OdyT2PKPmJBA&s
